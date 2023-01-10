@@ -61,7 +61,7 @@ sh <(wget --no-check-certificate https://raw.githubusercontent.com/Austin-Jack/m
 
 - Emmet <https://github.com/mattn/emmet-vim>
 - tComment <https://github.com/tomtom/tcomment_vim>
-- SnipMate <https://github.com/garbas/vim-snipmate>
+- ~~SnipMate <https://github.com/garbas/vim-snipmate~~
 - vim-snippets <https://github.com/honza/vim-snippets>
 - tagbar <https://github.com/majutsushi/tagbar>
 - ack <https://github.com/mileszs/ack.vim>
