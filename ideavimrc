@@ -23,7 +23,7 @@ noremap ]b :bn<Enter>
 
 
 " jj to escape
-inoremap jj <C-[>
+inoremap ;; <C-[>
 
 
 "--------------
