@@ -16,8 +16,10 @@ noremap [b :bp<Enter>
 noremap ]b :bn<Enter>
 
 " undo and redo
-inoremap uu <C-[>ui
-inoremap rr <C-[><C-r>i
+#inoremap uu <C-[>ui
+#inoremap rr <C-[><C-r>i
+
 
 " jj to escape
-inoremap jj <C-[>
+#inoremap jj <C-[>
+inoremap ;;  <C-[>
